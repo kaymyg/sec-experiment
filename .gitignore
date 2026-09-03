@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+experiments/results/*.json
+data/*
+!data/README.md
+.DS_Store

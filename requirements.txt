@@ -1,0 +1,12 @@
+# Core — needed for Stage 0, metrics, bitrate accounting, tests
+numpy>=1.24
+opencv-python-headless>=4.8
+scikit-image>=0.21
+pytest>=7.4
+
+# Optional — needed only if you wire up the LPIPS / identity / sync hooks
+# in src/sec/metrics.py, or a real Stage 1/2 backend. Not required for
+# Stage 0 to run.
+# torch
+# lpips
+# mediapipe

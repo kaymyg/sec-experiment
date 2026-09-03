@@ -1,0 +1,9 @@
+# Example config for a Stage 0 (D0) run.
+# This file documents the intended run; the CLI currently takes these as
+# flags directly (see README Quickstart). A config-driven runner can be
+# added once Stage 1/2 make multi-run sweeps worth automating.
+
+video: data/my_clip.mp4
+reference: data/speaker_room_reference.png
+out: experiments/results/stage0_d0.json
+max_frames: null  # set to e.g. 150 for a quick local sanity check
