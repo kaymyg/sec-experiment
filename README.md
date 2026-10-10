@@ -1,5 +1,8 @@
 # SEC Experiment — Where Does Video's Information Actually Live?
 
+[![CI](https://github.com/kaymyg/sec-experiment/actions/workflows/ci.yml/badge.svg)](https://github.com/kaymyg/sec-experiment/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/kaymyg/sec-experiment/actions/workflows/codeql.yml/badge.svg)](https://github.com/kaymyg/sec-experiment/actions/workflows/codeql.yml)
+
 This repo implements the **D0 → D1 → D2 prior ladder** experiment for measuring
 how much of a talking-head video's bitrate can be explained by decoder-side
 priors (generic model, speaker identity, scene/room) before any pixel data is
