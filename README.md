@@ -75,3 +75,8 @@ This is a research scaffold, not a paper's worth of results. Nothing here
 has been run against a real talking-head dataset yet — that's the next step
 once you plug in a video clip. See the "What's actually implemented" table
 above before citing any numbers from this repo.
+
+## Contributing
+
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to get set up and run the checks,
+and [SECURITY.md](SECURITY.md) for reporting vulnerabilities privately.
